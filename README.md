@@ -109,3 +109,15 @@ By the end of this project, I was able to:
  - queue
 
 	- Switches a stack to queue mode.
+
+## 📘 Authors
+
+  - Hesbon Kipchirchir <[Heshbon](https://github.com/Heshbon)>.
+
+## 🔍 License
+
+  - This project is licensed under the MIT License - see the <[LICENSE.md](https://github.com/Heshbon/monty/blob/master/LICENSE.md) file for details
+
+## 📣 Acknowledgments
+
+  - ALX Africa(providing guidance)
