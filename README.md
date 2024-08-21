@@ -112,7 +112,7 @@ By the end of this project, I was able to:
 
 ## 📘 Authors
 
-  - Hesbon Kipchirchir <[Heshbon](https://github.com/Heshbon)>.
+  - Hesbon Kipchirchir <u>[Heshbon](https://github.com/Heshbon)</u>.
 
 ## 🔍 License
 
